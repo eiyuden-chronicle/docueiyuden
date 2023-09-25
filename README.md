@@ -1,3 +1,3 @@
 # DocuEiyuden
 - Docusaurus + Eiyuden = DocuEiyuden
-- ドキューイユーデン
+- ドキュエーユーデン
