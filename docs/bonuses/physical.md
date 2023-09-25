@@ -5,7 +5,7 @@
 
 ## 共通特典
 
-以下の特典は全店舗で共通です。
+以下の特典は全店舗で共通（のはず）です。
 
 - 通常特典
   - リバーシブルジャケット
@@ -14,6 +14,7 @@
     - 3個 で 1セット
 
 ## 販売店別の特典
+- 店舗の掲載順はランダムです
 
 ### Amazon.co.jp
 
@@ -62,26 +63,68 @@
 
 ### WonderGOO
 
+#### 「オリジナル特典付き」
+- 共通特典
+- ミニ色紙
+- 商品リンク
+  - [https://www.wonder.co.jp/benefit/game/detail/?id=27414](https://www.wonder.co.jp/benefit/game/detail/?id=27414)
+
+#### 「オリジナル限定セット」
+- 共通特典
+- ミニ色紙
+- キャンバスアート
+- アクリルキーホルダー3種
+- 商品リンク
+  - [https://www.wonder.co.jp/benefit/game/detail/?id=27414](https://www.wonder.co.jp/benefit/game/detail/?id=27414)
+
 ### GEO
+- 商品リンク
+  - [PS5版](https://ec.geo-online.co.jp/shop/g/g516270501/)
+  - [PS4版](https://ec.geo-online.co.jp/shop/g/g513272001/)
+  - [Switch版](https://ec.geo-online.co.jp/shop/g/g515274201/)
 
 ### 楽天ブックス
+- 共通特典
+- 商品リンク
+  - [PS5版](https://books.rakuten.co.jp/rb/17643824/)
+  - [PS4版](https://books.rakuten.co.jp/rb/17643825/)
+  - [Switch版](https://books.rakuten.co.jp/rb/17643826/)
 
 ### ビックカメラ
+- 共通特典
+- 商品リンク
+  - [PS5版](https://www.biccamera.com/bc/item/12168005/)
+  - [PS4版](https://www.biccamera.com/bc/item/12168006/)
+  - [Switch版](https://www.biccamera.com/bc/item/12168007/)
 
 ### ヨドバシカメラ
+- 共通特典
+- 【ヨドバシカメラオリジナル特典】
+  - オリジナル缶バッジ
+- 商品リンク
+  - [PS5版](https://www.yodobashi.com/product/100000001008097254/)
+  - [PS4版](https://www.yodobashi.com/product/100000001008097255/)
+  - [Switch版](https://www.yodobashi.com/product/100000001008097256/)
 
 ### Joshin（ジョーシン）
 
+
 ### あみあみ
+
 
 ### メロンブックス
 
+
 ### Neowing
+
 
 ### ゲームショップ1983
 
+
 ### ヤマダ電機
 
+
 ### Nojima
+
 
 ### 7net
