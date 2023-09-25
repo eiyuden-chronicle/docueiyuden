@@ -27,5 +27,6 @@
 - ストレージ
   - 22 GB 利用可能
 - 追記事項
-  - Expected Framerate: 60 FPS @ 1920x1080 - You may be aiming for Very High (highest quality), but you may end up with Standard (standard quality).
-  - The GPU specification may be raised in the special note as 4K is not capable of 60FPS with this setup.
+  - Expected Framerate: 60 FPS @ 1920x1080
+    - You may be aiming for Very High (highest quality), but you may end up with Standard (standard quality).
+    - The GPU specification may be raised in the special note as 4K is not capable of 60FPS with this setup.
