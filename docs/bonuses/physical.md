@@ -2,7 +2,7 @@
 
 - 機種による特典の違いはありません
   - PS5 / PS4 / Switch 共通です
-- 店舗別特典が確認できていない場合には記載してありません
+- 店舗別特典が確認できていない場合には記載しておりません
   - 最新の情報については各店舗のページをご確認ください
 
 ## 共通特典
@@ -81,6 +81,7 @@
   - [https://www.wonder.co.jp/benefit/game/detail/?id=27414](https://www.wonder.co.jp/benefit/game/detail/?id=27414)
 
 ### GEO
+- 共通特典
 - 商品リンク
   - [PS5版](https://ec.geo-online.co.jp/shop/g/g516270501/)
   - [PS4版](https://ec.geo-online.co.jp/shop/g/g513272001/)
