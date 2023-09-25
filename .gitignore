@@ -1,5 +1,9 @@
 tmp/
 
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+
 # Dependencies
 /node_modules
 
