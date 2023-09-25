@@ -69,7 +69,7 @@
 #### 「オリジナル特典付き」
 - 共通特典
 - ミニ色紙
-- 商品リンク
+- 商品リンク（全機種共通）
   - [https://www.wonder.co.jp/benefit/game/detail/?id=27414](https://www.wonder.co.jp/benefit/game/detail/?id=27414)
 
 #### 「オリジナル限定セット」
@@ -77,7 +77,7 @@
 - ミニ色紙
 - キャンバスアート
 - アクリルキーホルダー3種
-- 商品リンク
+- 商品リンク（全機種共通）
   - [https://www.wonder.co.jp/benefit/game/detail/?id=27414](https://www.wonder.co.jp/benefit/game/detail/?id=27414)
 
 ### GEO
