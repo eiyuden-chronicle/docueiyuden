@@ -92,16 +92,9 @@
 - [https://www.wonder.co.jp/benefit/game/detail/?id=27414](https://www.wonder.co.jp/benefit/game/detail/?id=27414)
 :::
 
-### GEO
-- 共通特典
-
-:::note 商品リンク
-- [PS5版](https://ec.geo-online.co.jp/shop/g/g516270501/)
-- [PS4版](https://ec.geo-online.co.jp/shop/g/g513272001/)
-- [Switch版](https://ec.geo-online.co.jp/shop/g/g515274201/)
-:::
-
 ### 楽天ブックス
+
+#### 通常版
 - 共通特典
 
 :::note 商品リンク
@@ -110,8 +103,19 @@
 - [Switch版](https://books.rakuten.co.jp/rb/17643826/)
 :::
 
+#### オリジナル特典付き版
+- 共通特典
+- アクリルキーホルダー
+
+:::note 商品リンク
+- [PS5版](https://books.rakuten.co.jp/rb/17649944/?l-id=item-c-topackage-n-bu)
+- [PS4版](https://books.rakuten.co.jp/rb/17649945/?l-id=item-c-topackage-n-bu)
+- [Switch版](https://books.rakuten.co.jp/rb/17649946/?l-id=item-c-topackage-n-bu)
+:::
+
 ### ビックカメラ
 - 共通特典
+- オリジナルA4クリアファイル
 
 :::note 商品リンク
 - [PS5版](https://www.biccamera.com/bc/item/12168005/)
@@ -195,6 +199,15 @@
 - [PS5版](https://shop.1983.jp/shop/shop.cgi?order=&class=all&keyword=%95S%89p%97Y%93%60&FF=0&price_sort=&pic_only=&mode=p_wide&id=38425&superkey=1)
 - [PS4版](https://shop.1983.jp/shop/shop.cgi?order=&class=all&keyword=%95S%89p%97Y%93%60&FF=0&price_sort=&pic_only=&mode=p_wide&id=38424&superkey=1)
 - [Switch版](https://shop.1983.jp/shop/shop.cgi?order=&class=all&keyword=%95S%89p%97Y%93%60&FF=0&price_sort=&pic_only=&mode=p_wide&id=38423&superkey=1)
+:::
+
+### GEO
+- 共通特典
+
+:::note 商品リンク
+- [PS5版](https://ec.geo-online.co.jp/shop/g/g516270501/)
+- [PS4版](https://ec.geo-online.co.jp/shop/g/g513272001/)
+- [Switch版](https://ec.geo-online.co.jp/shop/g/g515274201/)
 :::
 
 ### ヤマダ電機
