@@ -212,7 +212,18 @@
 - [Switch版](https://ec.geo-online.co.jp/shop/g/g515274201/)
 :::
 
-### 13. ヤマダ電機
+### 13. よろずやショップ びっく宝島
+- 共通特典
+- びっく宝島特典
+  - 「アクリルスタンド（ウェーブ）」
+
+:::note 商品リンク
+- [PS5版](https://beak-takarajima.celosia.co.jp/shop/shopdetail.html?brandcode=000000005055&search=%C9%B4%B1%D1%CD%BA%C5%C1&sort=)
+- [PS4版](https://beak-takarajima.celosia.co.jp/shop/shopdetail.html?brandcode=000000005054&search=%C9%B4%B1%D1%CD%BA%C5%C1&sort=)
+- [Switch版](https://beak-takarajima.celosia.co.jp/shop/shopdetail.html?brandcode=000000005053&search=%C9%B4%B1%D1%CD%BA%C5%C1&sort=)
+:::
+
+### 14. ヤマダ電機
 - 共通特典
 
 :::note 商品リンク
@@ -221,7 +232,7 @@
 - [Switch版](https://www.yamada-denkiweb.com/2819367015/)
 :::
 
-### 14. Nojima
+### 15. Nojima
 - 共通特典
 
 :::note 商品リンク
@@ -230,7 +241,7 @@
 - [Switch版](https://online.nojima.co.jp/commodity/1/8023171047393/)
 :::
 
-### 15. 7net（セブンネットショッピング）
+### 16. 7net（セブンネットショッピング）
 - 共通特典
 
 :::note 商品リンク
