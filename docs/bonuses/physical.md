@@ -215,7 +215,7 @@
 ### 13. よろずやショップ びっく宝島
 - 共通特典
 - びっく宝島特典
-  - 「アクリルスタンド（ウェーブ）」
+  - アクリルスタンド（ウェーブ）
 
 :::note 商品リンク
 - [PS5版](https://beak-takarajima.celosia.co.jp/shop/shopdetail.html?brandcode=000000005055&search=%C9%B4%B1%D1%CD%BA%C5%C1&sort=)
