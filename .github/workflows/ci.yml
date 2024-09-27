@@ -15,7 +15,7 @@ on:
 jobs:
   docueiyuden:
     name: ドキュエーユーデン
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     timeout-minutes: 15
     steps:
       - name: （デバッグ用）Payload (GITHUB_EVENT_PATH) を確認する
