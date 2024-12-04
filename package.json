@@ -30,7 +30,7 @@
   "engines": {
     "node": ">=16.14"
   },
-  "packageManager": "yarn@3.8.6",
+  "packageManager": "yarn@3.8.7",
   "private": true,
   "scripts": {
     "build": "docusaurus build",
